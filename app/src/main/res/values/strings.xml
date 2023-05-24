@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Smartly</string>
+    <string name="no_data_available">No data available</string>
+    <string name="ok">Ok</string>
+    <string name="smartly_app">Smartly App</string>
+    <string name="category">Category</string>
+    <string name="difficulty_level">Difficulty Level</string>
+    <string name="type">Type</string>
+    <string name="start">Start</string>
+    <string name="select_category">Select Category</string>
+    <string name="select_difficulty_level">Select Difficulty Level</string>
+    <string name="select_type">Select Type</string>
+    <string name="score">Score</string>
+    <string name="dummy_question">What is the largest non-continental island in the world?</string>
+    <string name="next">Next</string>
+    <string name="this_is_option">This is option</string>
+    <string name="submit">Submit</string>
+    <string name="your_scores">Your Scores</string>
+    <string name="earned_score">Earned Score</string>
+    <string name="total_score">Total Score</string>
+    <string name="dummy_score">10</string>
+    <string name="play_again">Play Again</string>
+    <string name="quick_mode">Quick Mode</string>
+    <string name="dummy_time">0</string>
+    <string name="remaining_life">Remaining Life</string>
+    <string name="history">History</string>
+    <string name="no_history_found">No history found</string>
+</resources>
